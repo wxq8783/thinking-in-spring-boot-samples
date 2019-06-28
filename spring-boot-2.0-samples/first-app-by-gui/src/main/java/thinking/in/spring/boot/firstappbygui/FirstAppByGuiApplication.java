@@ -22,6 +22,7 @@ import static org.springframework.web.reactive.function.server.ServerResponse.ok
 public class FirstAppByGuiApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FirstAppByGuiApplication.class, args);
 	}
 
